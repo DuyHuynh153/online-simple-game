@@ -35,7 +35,7 @@ class Button:
             return False
 
 def redrawWindow(win,game, p):
-    win.fill((128,128,128))
+    win.fill((19, 123, 143))
 
     if not (game.connected()):
         font = pygame.font.SysFont("comicsans", 80)

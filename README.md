@@ -16,3 +16,12 @@ To run this game on your local machine, you can clone this repository using the 
 
 ```bash
 git clone https://github.com/DuyHuynh153/online-simple-game.git
+``` install pygame
+pip install pygame
+
+
+```run
+**Run Server**: python3 server_game.py
+**Run client**: python3 client_game.py ( 2 times )
+
+
